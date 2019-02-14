@@ -1,0 +1,6 @@
+.*
+!.gitignore
+*/*.md
+*.yaml
+*_test.dart
+*.lock
